@@ -1,0 +1,18 @@
+./models/mark v3+newrainaug_rain100H/KPN_rainy_image_epoch1000_bs16.pth: 0.5657026991248131
+
+./models/v3+se_rain100H/KPN_rainy_image_epoch1000_bs16.pth: 0.8562084078788758
+
+./models/v3+se_rain100H/KPN_rainy_image_epoch5000_bs16.pth: 0.905247591137886
+
+./models/yuheng's other 3 file/data/models/rain100H/KPN_rainy_image_epoch1000_bs16.pth: 0.8833578878641128
+
+./models/yuheng's other 3 filse/accident2  v3/models/rain100H/KPN_rainy_image_epoch1000_bs16.pth: 0.6223545718193054
+
+./models/yuheng's other 3 file/accident innovation/models/rain100H/KPN_rainy_image_epoch1000_bs16.pth: 0.5424739682674408
+
+./models/v4_rain100H/KPN_rainy_image_epoch1000_bs16.pth: 0.5711904591321946
+
+./models/v4+se_rain100H/KPN_rainy_image_epoch1000_bs16.pth: 0.8538068181276321
+
+
+./models/new_rainaug+se/KPN_rainy_image_epoch1000_bs16.pth: 0.8810464352369308
