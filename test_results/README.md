@@ -1,11 +1,17 @@
-这里都是用rain100H训练出来的模型
+these models are all trained by rain100H
 
 version:
-v3: 原efficientderain基本结构+膨胀卷积+L1与SSIMloss;
-v4: v3+原rainmix;
-v3s: v3+se;
-v4s: v4+se;
-v3p: v3+新改进rainmix;
-v3sp: v3+新改进rainmix+se
 
-1000表示epoch = 1000;
+- v3: original efficientderain network+dilation convolution+L1&SSIMloss;
+
+- v4: v3+original rainmix;
+
+- v3s: v3+se;
+
+- v4s: v4+se;
+
+- v3p: v3+new rainmix;
+
+- v3sp: v3+new rainmix+se
+
+1000 means epoch = 1000;
