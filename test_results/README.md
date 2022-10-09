@@ -1,4 +1,6 @@
-these models are all trained by rain100H
+These models are all trained by rain100H.
+
+The matlab codes for drawing are also here. 
 
 version:
 
